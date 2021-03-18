@@ -2,7 +2,6 @@ import unittest
 
 import ROOT
 
-
 class RooAbsPdfFitTo(unittest.TestCase):
     """
     Test for the FitTo callable.
